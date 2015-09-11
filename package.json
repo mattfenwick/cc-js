@@ -1,0 +1,22 @@
+{
+  "name": "cc-js",
+  "version": "1.0.0",
+  "description": "continuations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no tests yet!\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mattfenwick/cc-js"
+  },
+  "keywords": [
+    "continuation"
+  ],
+  "author": "Matt Fenwick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattfenwick/cc-js/issues"
+  },
+  "homepage": "https://github.com/mattfenwick/cc-js"
+}
